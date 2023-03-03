@@ -1,0 +1,9 @@
+name: prem
+age: 35
+address: "Bangalore: JP Nagar"
+active: true
+key:
+    key: value
+    key2: 33
+    key3: key:value
+        key2:value2
